@@ -18,10 +18,10 @@ Vecta Corporation
 San Diego, CA 92115  
 Tel. (800) 555-5555  
 
->Tool used to build this web page:
->**_Visual Studio Code_**
->Technology used to build this web page:
-**HTML**
-_HTML Tags_ used to wrap content in this web page are:
-**Header Tag _<H1>_**
-**Paragraph Tag _<P>_**
+>Tool used to build this web page:  
+>**_Visual Studio Code_**  
+>Technology used to build this web page:  
+**HTML**  
+_HTML Tags_ used to wrap content in this web page are:    
+**Header Tag _<H1>_**  
+**Paragraph Tag _<P>_**  
