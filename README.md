@@ -12,11 +12,11 @@ This Web page is also used to provide details on below solutions provided by **V
 * **vConvert 2.0**
 * **vRetain 1.0**  
 
-**_Contact Details:_**
-Vecta Corporation
-555 Technology Place
-San Diego, CA 92115
-Tel. (800) 555-5555
+**_Contact Details:_**    
+Vecta Corporation  
+555 Technology Place  
+San Diego, CA 92115  
+Tel. (800) 555-5555  
 
 >Tool used to build this web page:
 >**_Visual Studio Code_**
